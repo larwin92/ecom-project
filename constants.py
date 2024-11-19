@@ -1,5 +1,5 @@
 welcome_page="""
---:Welcome to the Andrew Ecom Marketplace:--
+--:Welcome to the Ecom Marketplace:--
 
    **************************************
         1. Login as User

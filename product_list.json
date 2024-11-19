@@ -1,0 +1,26 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Laptop",
+        "category_id": 3,
+        "product_price": 75000
+    },
+    {
+        "product_id": 2,
+        "product_name": "Denim Jeans",
+        "category_id": 2,
+        "product_price": 2500
+    },
+    {
+        "product_id": 3,
+        "product_name": "Addidas Shoe",
+        "category_id": 1,
+        "product_price": 4500
+    },
+    {
+        "product_id": 4,
+        "product_name": "Samsung Mobile",
+        "category_id": 3,
+        "product_price": 29500
+    }
+]
